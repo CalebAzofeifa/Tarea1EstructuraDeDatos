@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\bin\Debug\net6.0\TareaIEstructuraDeDatos.exe
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\bin\Debug\net6.0\TareaIEstructuraDeDatos.deps.json
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\bin\Debug\net6.0\TareaIEstructuraDeDatos.runtimeconfig.json
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\bin\Debug\net6.0\TareaIEstructuraDeDatos.dll
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\bin\Debug\net6.0\TareaIEstructuraDeDatos.pdb
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.dll
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\refint\TareaIEstructuraDeDatos.dll
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.pdb
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\TareaIEstructuraDeDatos.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Escritorio\EstructuraDeDatos\TareaIEstructuraDeDatos\TareaIEstructuraDeDatos\obj\Debug\net6.0\ref\TareaIEstructuraDeDatos.dll
